@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|c:\\vikram\\github\\bookmyshow\\backend\\bookmyshow.api\\bookmyshow.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|solutionrelative:bookmyshow.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|c:\\vikram\\github\\bookmyshow\\backend\\bookmyshow.api\\bookmyshow.api\\bookmyshow.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|solutionrelative:bookmyshow.api\\bookmyshow.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|c:\\vikram\\github\\bookmyshow\\backend\\bookmyshow.api\\bookmyshow.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|solutionrelative:bookmyshow.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|c:\\vikram\\github\\bookmyshow\\backend\\bookmyshow.api\\bookmyshow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|solutionrelative:bookmyshow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|c:\\vikram\\github\\bookmyshow\\backend\\bookmyshow.api\\bookmyshow.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|solutionrelative:bookmyshow.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|c:\\vikram\\github\\bookmyshow\\backend\\bookmyshow.api\\bookmyshow.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|solutionrelative:bookmyshow.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|c:\\vikram\\github\\bookmyshow\\backend\\bookmyshow.api\\bookmyshow.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC6286E-DD6E-4490-B538-72FD171E7556}|BookMyShow.API\\BookMyShow.API.csproj|solutionrelative:bookmyshow.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookMyShow.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookMyShow.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T18:59:35.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookMyShow.API.http",
+              "DocumentMoniker": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\BookMyShow.API.http",
+              "RelativeDocumentMoniker": "BookMyShow.API\\BookMyShow.API.http",
+              "ToolTip": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\BookMyShow.API.http",
+              "RelativeToolTip": "BookMyShow.API\\BookMyShow.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-12T18:59:01.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\Program.cs",
+              "RelativeDocumentMoniker": "BookMyShow.API\\Program.cs",
+              "ToolTip": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\Program.cs",
+              "RelativeToolTip": "BookMyShow.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:58:54.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BookMyShow.API\\appsettings.json",
+              "ToolTip": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\appsettings.json",
+              "RelativeToolTip": "BookMyShow.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T18:58:50.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookMyShow.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\appsettings.Development.json",
+              "RelativeToolTip": "BookMyShow.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T18:58:45.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BookMyShow.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\WeatherForecast.cs",
+              "RelativeToolTip": "BookMyShow.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:56:38.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BookMyShow.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Vikram\\GitHub\\BookMyShow\\backend\\BookMyShow.API\\BookMyShow.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BookMyShow.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:56:25.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
